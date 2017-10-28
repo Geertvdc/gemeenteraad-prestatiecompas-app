@@ -7,5 +7,5 @@ This app is one of the contenders in this challenge and is the idea of Geert van
 Currently no winner has been chosen for the "OpenRaad API Challenge". this will be chosen on november 3rd 2017. if this app idea wins we will continue building the actual application.
 
 For now this app is only an idea including a mockup.
-* mockup can be found here: (Coming soon)
+* mockup can be found [here](https://github.com/Geertvdc/gemeenteraad-prestatiecompas-app/raw/master/mockup/mockup.pdf)
 * our plan for the challenge: (Coming soon)
